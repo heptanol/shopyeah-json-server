@@ -2,23 +2,23 @@
   "products": [
     {
       "name": "tomato",
-      "type": 1,
+      "type": 1
     },
     {
       "name": "potato",
-      "type": 1,
+      "type": 1
     },
     {
       "name": "milk",
-      "type": 2,
+      "type": 2
     },
     {
       "name": "cheese",
-      "type": 2,
+      "type": 2
     },
     {
       "name": "bread",
-      "type": 4,
+      "type": 4
     },
     {
       "name": "soda",
